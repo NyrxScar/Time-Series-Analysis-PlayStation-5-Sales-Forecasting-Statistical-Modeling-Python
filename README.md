@@ -1,0 +1,2 @@
+# Time-Series-Analysis-PlayStation-5-Sales-Forecasting-Statistical-Modeling-Python
+A Business Intelligence project focused on improving PlayStation 5 sales forecasting for Sony Interactive Entertainment. The project explores historical sales volatility, extends ARIMA-based forecasts to 12 months, incorporates Black Friday and Christmas seasonality, and compares base,optimistic, and pessimistic scenarios through data visualization
